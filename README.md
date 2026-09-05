@@ -42,4 +42,4 @@ Python | PyTest | Selenium | Postman | Jira-style defect tracking | GitHub Actio
 ## QA Objective
 Validate critical e-commerce user journeys, identify defects early, and demonstrate maintainable automation practices 
 
-> Note: UI selectors are intentionally documented as examples and should be adapted to the target application under test.
+> Note: UI selectors are intentionally documented 
